@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "description": "Learn the fundamentals of programming with this comprehensive course. Covering topics such as variables, loops, and functions, this course is perfect for beginners.",
+      "line_count": 4
+    },
+    {
+      "id": 2,
+      "title": "Web Development Basics",
+      "description": "Explore the world of web development and gain insights into HTML, CSS, and JavaScript. Build your first website and understand the essentials of front-end development.",
+      "line_count": 4
+    },
+    {
+      "id": 3,
+      "title": "Data Science Essentials",
+      "description": "Delve into the realm of data science, where you'll learn about data analysis, visualization, and machine learning. Acquire the skills needed for a career in this high-demand field.",
+      "line_count": 4
+    },
+    {
+      "id": 4,
+      "title": "Mobile App Development",
+      "description": "Create mobile applications for iOS and Android platforms. Understand the development lifecycle, UI/UX design, and deployment strategies for successful app creation.",
+      "line_count": 4
+    },
+    {
+      "id": 5,
+      "title": "Cybersecurity Fundamentals",
+      "description": "Enhance your understanding of cybersecurity principles. Explore topics such as encryption, network security, and ethical hacking to protect systems from potential threats.",
+      "line_count": 4
+    },
+    {
+      "id": 6,
+      "title": "Artificial Intelligence and Machine Learning",
+      "description": "Dive into the fascinating world of AI and ML. Learn about algorithms, neural networks, and applications of artificial intelligence in various industries.",
+      "line_count": 4
+    }
+  ]
+}
